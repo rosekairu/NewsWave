@@ -3,5 +3,5 @@ virtual/
 *.pyc
 instance/
 start.sh
-config.py
+
 __pychache__
